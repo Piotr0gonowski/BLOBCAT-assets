@@ -1,0 +1,22 @@
+{
+  "name": "GALAXYGASCAT",
+  "symbol": "GASCAT",
+  "description": "Token GALAXYGASCAT - nowa era technologii blockchain.",
+  "image": "https://github.com/Piotr0gonowski/BLOBCAT-assets/blob/main/galaxygascat.png?raw=true",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/Piotr0gonowski/BLOBCAT-assets/blob/main/galaxygascat.png?raw=true",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "D31QZW3XPVjg43kVHVrZbagQTX25Jp9j86Zz5bwKKrhj",
+        "share": 100
+      }
+    ]
+  }
+}
+
